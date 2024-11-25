@@ -7,4 +7,4 @@ Usei as linguangens Basica como HTML & CSS & Javascript.
 <br>
 <img src="https://github.com/Thais-enf/Piano/blob/c283ebac43d84800cbca080ac734c232ce23edfd/src/tela-table%20.png" width=290px;>
 <br>
-<img src=" https://github.com/Thais-enf/Piano/blob/c283ebac43d84800cbca080ac734c232ce23edfd/src/celular.png" width=290px;>
+<img src="https://github.com/Thais-enf/Piano/blob/b2343f4d23bf80043e8cedf23038cf27fdc7a77f/src/celular.png" width=290px;>
